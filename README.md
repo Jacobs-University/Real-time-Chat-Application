@@ -1,5 +1,6 @@
 # Real-time-Chat-Application
 Final Project for Human Computer Interaction 2021.
+### Submited by Ashray Adhikari
 
 Real-time Chat Application using Node.js and MongoDB.
 
